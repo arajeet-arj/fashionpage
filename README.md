@@ -11,6 +11,8 @@ The project comprises of a webpage that lists every product that is offered. If 
 
 https://arajeet-arj.github.io/fashionpage/index.html
 
+- Microsoft Azure link - https://gray-plant-09f756810.1.azurestaticapps.net/
+
 
 ## Screenshots
 
